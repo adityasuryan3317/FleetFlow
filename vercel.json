@@ -1,3 +1,7 @@
 {
-  "outputDirectory": "web-ui"
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/web-ui/index.html" },
+    { "source": "/(.*)", "destination": "/web-ui/$1" }
+  ]
 }

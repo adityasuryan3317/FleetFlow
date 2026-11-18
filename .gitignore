@@ -40,3 +40,6 @@ sandbox_test_storage/
 .env
 .env.*
 !.env.example
+
+# Vercel
+.vercel/
