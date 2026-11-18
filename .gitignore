@@ -1,0 +1,42 @@
+# Build artifacts
+build/
+bin/
+lib/
+out/
+*.exe
+*.obj
+*.o
+*.a
+*.dll
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Runtime data (optional: preserve schemas, ignore user dynamic data)
+# data/*.csv
+sandbox_test_storage/
+
+# Generated C++ build folders
+/build-final/
+/build-final-submission/
+/build/
+/cmake-build-*/
+
+# Frontend generated files
+/web-ui/node_modules/
+/web-ui/.next/
+/web-ui/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example

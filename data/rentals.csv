@@ -1,0 +1,2 @@
+rentalId,customerId,vehicleId,startDate,scheduledEndDate,actualReturnDate,estimatedCost,finalCost,status,actualStartDate
+1001,2001,1001,2026-11-16,2026-11-17,2026-11-17,5030,2500,Completed,2026-11-16

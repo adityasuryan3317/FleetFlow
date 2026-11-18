@@ -1,0 +1,2 @@
+paymentId,rentalId,customerId,amount,date,type,method,description
+5001,1001,2001,2500,2026-11-15,Payment,UPI,Test advance payment

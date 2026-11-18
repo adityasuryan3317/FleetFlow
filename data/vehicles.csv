@@ -1,0 +1,2 @@
+id,type,brand,model,plate,baseRate,status,extra1,extra2,extra3
+1001,CAR,Toyota,C,HR26AB1234,2500,Available,5,Petrol,true

@@ -1,0 +1,2 @@
+maintenanceId,vehicleId,problemDescription,startDate,completionDate,cost,status
+3001,1001,Regular engine oil change and routine servicing,2026-11-20,2026-11-20,3500,Completed
